@@ -1,0 +1,2 @@
+# Refactorizacion
+Ejemplo de refactorizacion
